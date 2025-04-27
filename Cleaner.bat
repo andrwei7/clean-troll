@@ -61,7 +61,7 @@ for /L %%a in (1,1,50) do (
 :: Final message
 cls
 color 0c
-echo YOU HAVE NO LONGER ACCES TO THIS PC. PLEASE CONTACT THE SUPPORT TEAM TO REPAIR. CONTACT HERE, CLC ON TOP MA REGII MAAAA.
+echo YOU HAVE NO LONGER ACCES TO THIS PC.
 timeout /t 1 >nul
 
 :: =============== BEEP BEEP PANIC MODE ==================
